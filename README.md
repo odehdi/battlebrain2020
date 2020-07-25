@@ -22,6 +22,11 @@ Also, why not the solution even suggest seats next to my team members?
 
 Hello SQLI Talents! Can you help Younes solve his problem?
 
+
+
+
+
+
 Intermediate Uses Cases:
 
 - Younes has the possibility to book a secure seat for one or more time ranges based on pre-defined health security policy constraints.
