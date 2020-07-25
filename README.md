@@ -104,6 +104,9 @@ The Jury will evaluate your solution based on the following axis by applying a s
 - Quality of Deliverables (Code, Ease of deployment, Video quality, etc) - 20%
 - UI / User Experience - 10%
 
+
+
+
 ## How To Submit Your Solution
 
 - Create or use your Account on Github 
